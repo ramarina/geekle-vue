@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "start": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "build:wc": "vue-cli-service build --target wc --name hero-list './src/components/*.vue'",
     "lint": "vue-cli-service lint"
